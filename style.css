@@ -1,0 +1,49 @@
+
+body {
+	background-color: #222222;
+	font-family: 'Oswald', sans-serif;
+	margin: auto;
+	text-align: center;
+	display: flex;
+}
+
+#space {
+	background-color: #222222;
+	margin-top: 20px;
+}
+
+.home{
+	background-color: white;
+	margin: auto;
+	border: 1px;
+	border-radius: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.inputs{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+	margin-bottom: 10px;
+	border-radius: 50px;
+	margin-top: 20px;
+}
+
+.btn {
+	padding: 10px;
+	width: 80%;
+	margin: 0 auto;
+	border-radius: 50px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background: linear-gradient(90deg, hsla(233, 100%, 50%, 1) 0%, hsla(256, 84%, 57%, 1) 77%);	cursor: pointer;
+}
